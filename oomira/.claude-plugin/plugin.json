@@ -1,0 +1,8 @@
+{
+	"name": "oomira",
+	"description": "Oomira in Claude Code, in one install: the Oomira connector, and a reminder that keeps your Oomira dashboard current. Once a chat has used Oomira, Claude reports what it finishes for the rest of that chat, and is sent back to report before it stops.",
+	"version": "0.2.0",
+	"author": { "name": "Oomira" },
+	"homepage": "https://oomira.com",
+	"keywords": ["oomira", "session", "dashboard"]
+}

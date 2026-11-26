@@ -1,0 +1,8 @@
+{
+	"name": "oomira",
+	"owner": { "name": "Oomira" },
+	"metadata": { "description": "Oomira for Claude Code: the connector and the session reminder in one install." },
+	"plugins": [
+		{ "name": "oomira", "source": "./oomira", "description": "Oomira in Claude Code: the connector, and a reminder that keeps your dashboard current." }
+	]
+}

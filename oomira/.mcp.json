@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"oomira": {
+			"type": "http",
+			"url": "https://oomira.com/connect"
+		}
+	}
+}
